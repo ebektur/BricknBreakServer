@@ -1,0 +1,3 @@
+/Users/masomo/Projects/BrickServer/BrickServer/bin/Release/BrickServer.exe
+/Users/masomo/Projects/BrickServer/BrickServer/obj/Release/BrickServer.csproj.CoreCompileInputs.cache
+/Users/masomo/Projects/BrickServer/BrickServer/obj/Release/BrickServer.exe

@@ -1,0 +1,9 @@
+/Users/masomo/Projects/BrickServer/BrickServer/bin/Debug/BrickServer.exe
+/Users/masomo/Projects/BrickServer/BrickServer/bin/Debug/BrickServer.pdb
+/Users/masomo/Projects/BrickServer/BrickServer/obj/Debug/BrickServer.csproj.AssemblyReference.cache
+/Users/masomo/Projects/BrickServer/BrickServer/obj/Debug/BrickServer.csproj.CoreCompileInputs.cache
+/Users/masomo/Projects/BrickServer/BrickServer/obj/Debug/BrickServer.exe
+/Users/masomo/Projects/BrickServer/BrickServer/obj/Debug/BrickServer.pdb
+/Users/masomo/Projects/BrickServer/BrickServer/bin/Debug/System.Numerics.Vectors.dll
+/Users/masomo/Projects/BrickServer/BrickServer/bin/Debug/System.Numerics.Vectors.xml
+/Users/masomo/Projects/BrickServer/BrickServer/obj/Debug/BrickServer.csproj.CopyComplete

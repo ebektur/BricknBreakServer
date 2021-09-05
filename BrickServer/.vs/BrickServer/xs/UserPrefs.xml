@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8DE03BB3-34E9-49C5-BED7-A451F25BDAD6}|Default">
+  <MonoDevelop.Ide.ItemProperties.BrickServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServerSend.cs">
+    <Files>
+      <File FileName="Player.cs" Line="46" Column="28" />
+      <File FileName="Program.cs" Line="43" Column="1" />
+      <File FileName="ServerSend.cs" Line="101" Column="14" />
+      <File FileName="ServerHandle.cs" Line="35" Column="66" />
+      <File FileName="GameLogic.cs" Line="18" Column="22" />
+      <File FileName="Packet.cs" Line="16" Column="1" />
+      <File FileName="Server.cs" Line="70" Column="1" />
+      <File FileName="Client.cs" Line="177" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BrickServer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
